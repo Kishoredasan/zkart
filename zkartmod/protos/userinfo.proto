@@ -1,0 +1,14 @@
+syntax = "proto3";
+package zkart;
+
+option java_package = "com.zkartmod";
+option java_outer_classname = "UserInfoProtos";
+
+message UserInfo{
+    string mail=1;
+    string name=2;
+    string phoneNumber=3;
+    int32 noOfPurchases=4;
+    string discountCode=5;
+    int32 discountValidity=6;
+}

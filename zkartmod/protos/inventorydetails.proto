@@ -1,0 +1,23 @@
+syntax = "proto3";
+package zkart;
+
+option java_package = "com.zkartmod";
+option java_outer_classname = "InventoryInfoProtos";
+enum productType{
+    MOBILE = 0;
+    LAPTOP= 1;
+    TABLET= 2;
+}
+message Product{
+    int32 prodID=1;
+    productType category=2;
+    string brand=3;
+    string model=4;
+    int64 price=5;
+    int32 stock=6;
+    string date=7;
+    int32 noOfDays=8;
+}
+message Products{
+    repeated Product product=1;
+}

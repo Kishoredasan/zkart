@@ -1,0 +1,12 @@
+
+dasan@zoho.comˆInvoice number 482283
+Date: 31/01/20, 3:51 PM
+Category  Brand  Model  price  count
+MobileApple 6s 60000 2
+specialDiscount:10%
+forBrand:Apple model: 6s
+actual amount :120000.0
+Total:120000.0
+You have received a discount EL893F which is valid for next 3 purchases
+
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+package zkart;
+
+option java_package = "com.zkartmod";
+option java_outer_classname = "OrderDetailsProtos";
+
+message Invoice{
+    string mail=1;
+    repeated string orderDetails=2;
+}

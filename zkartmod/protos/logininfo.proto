@@ -1,0 +1,15 @@
+syntax = "proto3";
+package zkart;
+
+option java_package = "com.zkartmod";
+option java_outer_classname = "LoginInfoProtos";
+
+message Login {
+    int32 ID=1;
+    string mail=2;
+    string password=3;
+}
+
+message AllLoginInfo{
+    repeated Login login=1;
+}
