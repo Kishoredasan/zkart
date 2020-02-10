@@ -1,0 +1,34 @@
+
+dasan@zoho.comœInvoice number 731240
+Date: 10/02/20, 11:20 AM
+Category  Brand  Model  price  count
+Mobile  Apple 6s 60000 2
+specialDiscount:10%
+forBrand:Apple model: 6s
+actual amount :120000.0
+Discount:12000.0
+Total:108000.0
+You have received a discount QW39TC which is valid for next 3 purchases
+
+
+ÄInvoice number 240009
+Date: 10/02/20, 11:30 AM
+Category  Brand  Model  price  count
+actual amount :0.0
+Discount code QW39TC available for you which is added
+Discount% :21
+discount:0.0
+Total:0.0
+
+
+êInvoice number 145838
+Date: 10/02/20, 11:30 AM
+Category  Brand  Model  price  count
+LAPTOP  HP Elite 56000 2
+actual amount :112000.0
+Discount code QW39TC available for you which is added
+Discount% :24
+discount:26880.0
+Total:85120.0
+
+

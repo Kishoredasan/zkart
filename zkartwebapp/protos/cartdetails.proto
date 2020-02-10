@@ -1,0 +1,14 @@
+syntax = "proto3";
+package zkartwebapp;
+
+option java_package = "com.zkartmod";
+option java_outer_classname = "CartDetailsProtos";
+
+message Product{
+    int32 productId=1;
+    int32 count=2;
+}
+message AllProductsInCart{
+    bool cartEmpty=1;
+    repeated Product prod=2;
+}
